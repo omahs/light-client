@@ -41,11 +41,11 @@
   "devDependencies": {
     "@types/express": "^4.17.14",
     "@types/http-errors": "^1.8.2",
-    "@types/inquirer": "^8.2.3",
+    "@types/inquirer": "^8.2.4",
     "@types/morgan": "^1.9.3",
-    "@types/node": "^16.11.59",
+    "@types/node": "^16.11.62",
     "@types/node-localstorage": "^1.3.0",
-    "@types/yargs": "^17.0.12",
+    "@types/yargs": "^17.0.13",
     "@vercel/ncc": "^0.34.0",
     "typescript": "^4.8.3"
   },
@@ -60,7 +60,7 @@
     "morgan": "^1.10.0",
     "node-localstorage": "^2.2.1",
     "raiden-ts": "^3.0.0",
-    "rxjs": "^7.5.6",
+    "rxjs": "^7.5.7",
     "yargs": "^17.5.1"
   }
 }
